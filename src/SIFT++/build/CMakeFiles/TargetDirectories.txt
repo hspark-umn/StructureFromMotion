@@ -1,0 +1,3 @@
+/home/hspark/hspark/code/SIFT++/build/CMakeFiles/rebuild_cache.dir
+/home/hspark/hspark/code/SIFT++/build/CMakeFiles/sift++.dir
+/home/hspark/hspark/code/SIFT++/build/CMakeFiles/edit_cache.dir

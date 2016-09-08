@@ -1,0 +1,3 @@
+/home/hspark/hspark/code/Reconstruction_ceres_gopro3/build/CMakeFiles/rebuild_cache.dir
+/home/hspark/hspark/code/Reconstruction_ceres_gopro3/build/CMakeFiles/edit_cache.dir
+/home/hspark/hspark/code/Reconstruction_ceres_gopro3/build/CMakeFiles/Reconstruction_ceres_gopro3.dir

@@ -1,0 +1,3 @@
+/home/hspark/hspark/code/InitialFrameDetection/build/CMakeFiles/rebuild_cache.dir
+/home/hspark/hspark/code/InitialFrameDetection/build/CMakeFiles/edit_cache.dir
+/home/hspark/hspark/code/InitialFrameDetection/build/CMakeFiles/InitialFrameDetection.dir
